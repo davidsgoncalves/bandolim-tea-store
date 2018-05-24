@@ -15,7 +15,7 @@ In the last Screen, just fill the data, and finish the action.
 Step 1: Clone repository:
 
 ```
-git clone [this url]
+git clone https://davidsgoncalves@bitbucket.org/davidsgoncalves/bandolim-tea-store-app.git
 ```
 
 Step 2: Run NPM Install, on root folder of git clone.
