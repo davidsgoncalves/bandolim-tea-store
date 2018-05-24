@@ -1,0 +1,2 @@
+export const SET_STATUS = 'SET_STATUS';
+export const RESET_RESPONSES = 'RESET_RESPONSES';
