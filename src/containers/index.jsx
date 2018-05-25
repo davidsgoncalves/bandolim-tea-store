@@ -4,7 +4,7 @@ import { Route, Switch } from 'react-router-dom';
 import { ConnectedRouter as Router } from 'react-router-redux';
 import { Provider, connect } from 'react-redux';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import store, { history } from '../../../bandolim-tea-store/src/storesConfig';
+import store, { history } from '../storesConfig';
 import PreCashier from './pre-cashier/PreCashier';
 import Cashier from './cashier/Cashier';
 import TopBar from '../components/TopBar';

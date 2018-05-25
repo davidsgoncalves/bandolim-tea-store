@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ReactTable from 'react-table'
+import ReactTable from 'react-table';
 import { Container, Button } from 'reactstrap';
 import { Provider, connect } from 'react-redux';
 import store from '../../storesConfig';
