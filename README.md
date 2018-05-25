@@ -45,6 +45,8 @@ This application uses an api with fake data.
 
 It was supposed to be built getting data from Todo Cartões API, but i had some problems with CORS errors, so i create my own api with fake data.
 
+In first access this api maybe will be a little slow, be patient =D.
+
 ### Change API base url
 Just change the file in `/bandolim-tea-store/src/middleware/fetch_api.js` in line 10 from:
  
@@ -62,6 +64,7 @@ const endpoint = `https://tea-store.herokuapp.com/api/${path}`;
 * Create a better layout;
 * Add messages for errors;
 * Return to first screen after the purchase;
+* Add loading in async requests;
 
 ## Built With
 
